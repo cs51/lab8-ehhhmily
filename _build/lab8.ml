@@ -226,7 +226,7 @@ by registering appropriate listeners, one for each news network,
 waiting for the publish event.
 ......................................................................*)
 
-let receive_report () = fire_event news ;;
+let receive_report = fun _ -> failwith "report not implemented";;
 
 (*......................................................................
 Exercise 10: Register the receieve_report listener to listen for the

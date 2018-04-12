@@ -1,0 +1,4 @@
+"Rule: ocaml dependencies ml (%=lab8 )": "/`\021G\191e\226\238s\218\005q\129\228\237\254"
+"Resource: /Users/emilyhong/Documents/github/cs51/lab8-ehhhmily/lab8.ml": "\bY\192N\1757\162Wv\151;\163\215B\156\163"
+"Rule: ocaml: ml -> cmo & cmi (%=lab8 )": "Gq\208f:\232\024\023\158\165\225\174\182\140,\133"
+"Rule: ocaml: cmo* -> byte (%=lab8 )": "\175C\167b'S\151\158\191\169\147\011\137\230\249\244"
